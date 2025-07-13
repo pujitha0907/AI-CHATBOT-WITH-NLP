@@ -38,4 +38,6 @@ Terminal/Command Prompt -	For running chatbot and installing libraries
 
 ##output
 
+<img width="857" height="257" alt="Image" src="https://github.com/user-attachments/assets/9723a290-aeac-4c99-97fe-823dd96f632a" />
+
 
